@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Random Gif</string>
+    <string name="no_title">No Title</string>
+    <string name="try_again">Try Again!</string>
+    <string name="search">Search</string>
+    <string name="random_selected_gif">Random Selected Gif:</string>
+    <string name="search_result">Search Result:</string>
+    <string name="gif_title">Gif Title</string>
+    <string name="fetch_gif_error">Oops! We lost this one. \n Next gif will come in few seconds :)</string>
+    <string name="no_result">No Result Found!</string>
+    <string name="server_error">Server Error!</string>
+    <string name="general_network_error">Fail to Fetch Data, Sorry!</string>
+    <string name="empty_result">Search Some Gifs :)</string>
+</resources>
